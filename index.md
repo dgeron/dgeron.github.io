@@ -4,11 +4,11 @@ header:
   image_fullwidth: 'header.jpg'
 widget-1:
   title: Βιογραφίες
-  url: biography/
+  url: /biography/
 widget-2:
   title: Εικόνες
-  url: gallery/
+  url: /gallery/
 widget-3: 
   title: Μελέτες περίπτωσης
-  url: case-study/
+  url: /case-study/
 ---
