@@ -1,0 +1,4685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 49 links with priority=0.7, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/404.html</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/archive/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/atom.xml</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/beta/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bibliography/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/biography/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/books-more/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/books-related/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/buy/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/contact/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/contribute/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coupons/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/credits/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/endorsements/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/google/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/image-credits/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/info/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/make/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/method/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/notes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/research/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/screencasts/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/archetypes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/definition/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/intro/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/method/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/models/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/preface/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/synthesis/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/tools/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/slides/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/study/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+
+
+<!-- Posts: 19 links with priority=0.7, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/event/hci-entrepreneurship/</loc>
+	
+		<lastmod>2016-03-29T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/event/innovation-greekchi/</loc>
+	
+		<lastmod>2015-12-19T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/screencasts/</loc>
+	
+		<lastmod>2015-11-25T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/screencast-tools/</loc>
+	
+		<lastmod>2015-11-18T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/screencast-archetypes/</loc>
+	
+		<lastmod>2015-11-04T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/screencast-method/</loc>
+	
+		<lastmod>2015-10-21T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/screencast-definition/</loc>
+	
+		<lastmod>2015-10-09T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/slides/</loc>
+	
+		<lastmod>2015-09-22T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-six-synthesis/</loc>
+	
+		<lastmod>2015-07-25T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-three-revised/</loc>
+	
+		<lastmod>2015-07-10T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-five-models/</loc>
+	
+		<lastmod>2015-06-30T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-one-revised/</loc>
+	
+		<lastmod>2015-06-15T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/kallipos/new-toc/</loc>
+	
+		<lastmod>2015-04-25T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/preface/</loc>
+	
+		<lastmod>2015-04-02T00:00:00+03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/introduction/</loc>
+	
+		<lastmod>2015-03-02T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-four-tools/</loc>
+	
+		<lastmod>2015-02-04T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-three-archetypes/</loc>
+	
+		<lastmod>2015-01-06T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-two-method/</loc>
+	
+		<lastmod>2014-12-05T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/chapters/chapter-one-defintion/</loc>
+	
+		<lastmod>2014-11-03T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.7</priority>
+	
+	</url>
+	
+
+
+<!-- Quotes: 31 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/aristotle-learning/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/booch-complexity/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/buxton-method/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/comte-opinion/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/confucius-learning/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/dyson-models/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/einstein-explain/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/exupery-perfection/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/feynman-understand/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/gale-design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/garrett-understanding/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/hoare-deficiencies/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/jobs-focusgroups/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/kay-archetypes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/kay-cs/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/kay-invent/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/kay-perspective/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/kay-technology/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/knuth-design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/lanier-instrument/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/licklider-augmentation/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/minsky-technology/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/norman-design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/norman-experience/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/picasso-do/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/picasso-steal/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/rand-design-familiarity/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/rosenberg-tools/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/stroustrup-wish/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/victor-definition/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/quotes/weiser-forms/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Gallery: 161 links with priority=0.2, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/adaptive-menus/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/android-emulator/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/antikythera-mechanism/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/app/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/apple-mouse/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/apple-newton/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/architecture-model/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/arduino-lilypad/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/arduino-shield/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/arduino_uno/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/aspen-movie-map/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/atm-affective/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/bbs/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/bell-nomograph/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/cad/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/canvas/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/card/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/classroom/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/crowdsourcing/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/desktop-interaction-history-future/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/desktop/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/dtp/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/dvorak-keyboard/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/dynabook/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/eclipse-ide/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/electronics/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/elements/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/engelbart-mouse/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/exams/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/facebook1/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/facebook2/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/fitts-comparison/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/github-contributions/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/github-profile/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/gmail-beta/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/google-now/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/google_assistant/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/google_search_engine/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hackathon/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hackerspace/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hand-occlusion/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hipmunk/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/home-programming/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/human-centered-design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hypercard-layout/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/hypermedia/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ical/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/igoefinger/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/input-comparison/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/input-device-taxonomy/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ipod_1g/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ipod_classic/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ipod_touch_2g/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/irc/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/itunes3/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/itv-buck/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/justinmind/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/kickstarter-pebble/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/kidsim/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/kodak-hifi/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/latex/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/learntomod/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/lifestreams/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/linux/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/long-tail/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/macintosh-desktop/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/magic-cap/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/makerspace/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/makey_makey_front/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mapping-principle/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/math-blaster/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mediaspace/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/meetup/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/memex/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/menus-on-top/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/menus-on-windows/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/messenger/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/microsoft-bob/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/microsoft-connect/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/minecraft-pi/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/minecraft/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mit-scratch/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mobile/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mockups/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/modern-pc-mouse/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/mouse-test-software/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/msdos/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/multimodal/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/myron-kruger/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/nls/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/office-schematic/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/open-street-map/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/p2p/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/panorama/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/pebble-hifi/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/personas/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/probes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/processing-ide/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/prototype-evaluation/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/prototype-levels/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/prototype-lifecycle/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/prototype-types/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/pygmalion/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/qwerty-typewriter/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/raspberrypi/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/reactable-fountain/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/reactable/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/reactivision-simulator/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/relational-agent/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/second-life/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/sensory_homunculus/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/sketchpad/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/skype/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/smalltalk/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/social-media/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/social-reviews/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/social/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/socio-technical-design/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/software/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/steve-mann-wearable-computer/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/sword-of-damocles/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/symbolic-abstraction/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/tabs-pads-boards/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/teachlive-lab/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/tenbyten/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/time-space-cscw/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/tool-need/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/touch-develop/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/touchdevelop/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/touchpad/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/uber/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ubiq/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/ui-sketch/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/uist-history/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/usability-observation/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/user-centered-history/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/visicalc/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/visual-basic-form-designer/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/vr-soldier-training/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/we-feel-fine/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/wearable/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/weiser-pad-board/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/weiser-tab-pad-board/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/weiser/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/wikipedia-edit/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/wikipedia-growth/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/winamp/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/windows-mobile/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/windows1/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/windows10/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/windows8/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/windows95/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/www/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/x-window-system/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xanadu/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xerox-alto/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xerox-parc-tab/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xerox-star-desktop/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xerox-star-genealogy/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/xerox-star/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+
+<!-- Case Study: 14 links with priority=0.2, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/affective/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/arduino/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/facebook/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/google_search/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/ipod/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/minecraft/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/mouse/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/poet/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/reactable/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/star/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/wikipedia/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/windows/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/www/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/case-study/xerox-parc/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.2</priority>
+	
+	</url>
+	
+
+
+<!-- Remix: 34 links with priority=0.4, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/audio-player/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/button/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/calculator/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/camera-color/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/camera-filter/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/camera-motion/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/clock-processing/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/css-queries/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/google-map/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/image-3d/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/image-filter/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/image-zoom/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/image/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/interactive-text/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/keyboard-input/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/lighting/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/map-location/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-css/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-dropdown/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-empty/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-pie/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-scroll/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/menu-slide/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-button/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-draw-processing/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-draw/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-form/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-lines/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-option/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/mouse-scroll/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/switch/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/video-player/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/visualization-dataset/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/remix/visualization/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.4</priority>
+	
+	</url>
+	
+
+
+<!-- Make: 7 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/making/activity-tracker/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/collaboration/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/media-player/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/mobile-notes/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/photography/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/remote-control/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/making/video-game/</loc>
+	
+		<lastmod>2017-11-15T01:11:35+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>

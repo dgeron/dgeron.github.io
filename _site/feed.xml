@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ο Προγραμματισμός της Διάδρασης</title>
+		<description>Ο Προγραμματισμός της Διάδρασης είναι ένα βιβλίο που είναι διαθέσιμο για αγορά σε πολλές μορφές ηλεκτρονικού και φυσικού βιβλίου. Επίσης, ένα σημαντικό τμήμα του περιεχομένου του καθώς και συμπληρωματικό υλικό για την πρακτική εφαρμογή στην εκπαίδευση διανέμεται ελεύθερα στο δίκτυο.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Παρουσίαση στο ΟΠΑ</title>
+				<link>http://localhost:4000/event/hci-entrepreneurship/</link>
+				<pubDate>Tue, 29 Mar 2016 00:00:00 +0300</pubDate>
+				<description>&lt;p&gt;Στο μάθημα HCI του εαρινού εξαμήνου του τμήματος ΔΕΤ του ΟΠΑ έγινε παρουσίαση του τρίτου κεφαλαίου, ενώ παράλληλα έγιναν διαθέσιμα σε περιορισμένο αριθμό και για λίγες μόνο ώρες &lt;a href=&quot;/coupons/&quot;&gt;κουπόνια για την αγορά του βιβλίου δωρεάν&lt;/a&gt; από τους φοιτητές. Για περισσότερη ενημέρωση και για μελλοντικές εκδηλώσεις μπορείτε να &lt;a href=&quot;https://www.facebook.com/pibookgr&quot;&gt;γραφτείτε στην σελίδα του βιβλίου στο facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/event/hci-entrepreneurship/</guid>
+			</item>
+		
+			<item>
+				<title>Καινοτομία</title>
+				<link>http://localhost:4000/event/innovation-greekchi/</link>
+				<pubDate>Sat, 19 Dec 2015 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Στην φετινή συνάντηση για την ημέρα ευχρηστίας 2015 έγινε παρουσίαση με τίτλο &lt;a href=&quot;http://www.slideshare.net/ep1dr0me/programming-interactivity-and-innovation&quot;&gt;Προγραμματισμός της Διάδρασης και Καινοτομία&lt;/a&gt;, ενώ παράλληλα έγιναν διαθέσιμα σε περιορισμένο αριθμό και για λίγες μόνο ώρες &lt;a href=&quot;/coupons/&quot;&gt;κουπόνια για την αγορά του βιβλίου δωρεάν&lt;/a&gt;. Για περισσότερη ενημέρωση σχετικά με μελλοντικές εκδηλώσεις μπορείτε να &lt;a href=&quot;https://www.facebook.com/pibookgr&quot;&gt;γραφτείτε στην σελίδα του βιβλίου στο facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/event/innovation-greekchi/</guid>
+			</item>
+		
+			<item>
+				<title>Screencast</title>
+				<link>http://localhost:4000/chapters/screencasts/</link>
+				<pubDate>Wed, 25 Nov 2015 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Τα βασικά κεφάλαια του βιβλίου συνοδεύονται από την ηχητική παρουσίαση των διαφανειών. Με αυτόν τον τρόπο, το υλικό του βιβλίου μπορεί χρησιμοποιηθεί από τους αναγνώστες για ανεξάρτητη μελέτη ή από τους διδάσκοντες για να προετοιμάσουν μια παρουσίαση στην τάξη τους.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/screencasts/</guid>
+			</item>
+		
+			<item>
+				<title>Screencast Εργαλεία και Τεχνικές</title>
+				<link>http://localhost:4000/chapters/screencast-tools/</link>
+				<pubDate>Wed, 18 Nov 2015 00:00:00 +0200</pubDate>
+				<description>&lt;div class=&quot;flex-video&quot;&gt;
+  &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_FnZVCQFxT4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/screencast-tools/</guid>
+			</item>
+		
+			<item>
+				<title>Screencast Αρχέτυπα</title>
+				<link>http://localhost:4000/chapters/screencast-archetypes/</link>
+				<pubDate>Wed, 04 Nov 2015 00:00:00 +0200</pubDate>
+				<description>&lt;div class=&quot;flex-video&quot;&gt;
+  &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YgQn5hxRi1U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-video&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/k6TSBMZDO64&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/screencast-archetypes/</guid>
+			</item>
+		
+			<item>
+				<title>Screencast Μέθοδος</title>
+				<link>http://localhost:4000/chapters/screencast-method/</link>
+				<pubDate>Wed, 21 Oct 2015 00:00:00 +0300</pubDate>
+				<description>&lt;div class=&quot;flex-video&quot;&gt;
+  &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KM6Aakkc-gM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-video&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6LI_SH9IE-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/screencast-method/</guid>
+			</item>
+		
+			<item>
+				<title>Screencast Ορισμός</title>
+				<link>http://localhost:4000/chapters/screencast-definition/</link>
+				<pubDate>Fri, 09 Oct 2015 00:00:00 +0300</pubDate>
+				<description>&lt;div class=&quot;flex-video&quot;&gt;
+  &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H3ZAjgOi61w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-video&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VbmJnAo5rWQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/screencast-definition/</guid>
+			</item>
+		
+			<item>
+				<title>Διαφάνειες</title>
+				<link>http://localhost:4000/chapters/slides/</link>
+				<pubDate>Tue, 22 Sep 2015 00:00:00 +0300</pubDate>
+				<description>&lt;p&gt;Τα βασικά κεφάλαια του βιβλίου έχουν οργανωθεί σε διαφάνειες, οι οποίες ετοιμάστηκαν σύμφωνα με το πρότυπο slidy το οποίο επιτρέπει την παρουσίαση τους απευθείας μέσα από τον φυλομετρητή. Με αυτόν τον τρόπο ο αναγνώστης και ο καθηγητής μπορεί να κάνει μια γρήγορη επισκόπηση των βασικών τίτλων και εικόνων του βιβλίου, τα οποία λειτουργούν παράλληλα με το κείμενο του αντίστοιχου κεφαλαίου.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/slides/</guid>
+			</item>
+		
+			<item>
+				<title>Κεφάλαιο Έξι</title>
+				<link>http://localhost:4000/chapters/chapter-six-synthesis/</link>
+				<pubDate>Sat, 25 Jul 2015 00:00:00 +0300</pubDate>
+				<description>&lt;p&gt;Το έκτο κεφάλαιο είναι έτοιμο για ανάγνωση, σχολιασμό, και βελτίωση από το κοινό. Το έκτο κεφάλαιο περιγράφει τον προγραμματισμό της διάδρασης για συστήματα που είναι σύνθετα και έχουν μεγάλη κλίμακα. Συμπληρωματικά της περιοχής της διάδρασης ανθρώπου-υπολογιστή, έχουμε περιοχές όπως τα κοινωνικά και συνεργατικά συστήματα, καθώς και τα πληροφοριακά συστήματα διοίκησης τα οποία οποία αναλύουν φαινόμενα διάδρασης που συμβαίνουν σε σύνθετα κοινωνικά και τεχνολογικά συστήματα τα οποία μπορεί να έχουν πολύ μεγαλύτερη κλίμακα από εκείνη της διάδρασης ενός ανθρώπου με έναν υπολογιστή. Τόσο η σύνθεση, όσο και η κλίμακα ενός συστήματος διάδρασης, απαιτούν μια διαφορετική προσέγγιση της μεθοδολογίας σχεδίασης από εκείνη της βασικής περίπτωσης ανθρώπου-υπολογιστή.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/chapter-six-synthesis/</guid>
+			</item>
+		
+			<item>
+				<title>Ετοιμάστηκε το επιμελημένο τρίτο κεφάλαιο</title>
+				<link>http://localhost:4000/chapters/chapter-three-revised/</link>
+				<pubDate>Fri, 10 Jul 2015 00:00:00 +0300</pubDate>
+				<description>&lt;p&gt;Το τρίτο κεφάλαιο βρίσκεται στη διάθεσή σας, επιμελημένο γλωσσικά και συντακτικά. Όπως όλα τα τμήματα του βιβλίου, έτσι και το κεφάλαιο αυτό ξεκινά μια συζήτηση την οποία εμπλουτίζουν τα σχόλια και οι βελτιώσεις των αναγνωστών του.&lt;/p&gt;
+
+&lt;p&gt;Συγκεκριμένα, στο τρίτο κεφάλαιο διαβάζουμε για τα &lt;em&gt;Αρχέτυπα&lt;/em&gt; του προγραμματισμού της διάδρασης, τα οποία προσφέρουν ικανούς τρόπους προγραμματισμού με μικρό περιθώριο σφάλματος για τον κατασκευαστή. Όμως, προσοχή στις παγίδες.
+Υπάρχουν περιπτώσεις όπου δεν λειτουργούν σωστά. Έχετε διαπιστώσει από την εμπειρία σας κάποιες τέτοιες περιπτώσεις;
+Άλλωστε, η επιμονή στα Αρχέτυπα μπορεί να εμποδίσει τη δημιουργία νέων μορφών διάδρασης.&lt;/p&gt;
+
+&lt;p&gt;–
+Ευχαριστούμε τη Σοφία Ντούλου για τη βοήθειά της στην επιμέλεια του κεφαλαίου.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ISBN:&lt;/b&gt; 978-618-82423-4-0 &amp;middot; &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;&lt;img alt=&quot;Άδεια Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/chapters/chapter-three-revised/</guid>
+			</item>
+		
+	</channel>
+</rss>

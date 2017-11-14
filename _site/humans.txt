@@ -1,0 +1,46 @@
+/* TEAM */
+
+Name: Konstantinos Chorianopoulos
+Site: http://www.epidro.me/
+Twitter: @ep1dr0me
+
+Name: your real name
+Site: your home page
+Twitter: @your twitter account
+
+Name: Nikolaos Kouklas
+Site: https://gr.linkedin.com/in/nikolaoskouklascomputerscience
+Twitter: @NikolaosKouklas
+
+Name: Achilleas Kapetanios
+Site: 
+Twitter: @achilleaskap
+
+Name: Alexandros Zervopoulos
+Site: 
+Twitter: 
+
+Name: Stelios Gavras
+Site: 
+Twitter: 
+
+Name: Dimitris Gerontopoulos
+Site: your home page
+Twitter: 
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Role: Creator of the Theme
+Site: http://mo.phlow.de/
+Twitter: @phlow
+Theme: http://phlow.github.io/feeling-responsive/
+
+
+/* SITE */
+
+Last Updated: 2017/11/15
+Standards: HTML5, CSS3
+Software: Atom, Jekyll, GitHub
+Components: 

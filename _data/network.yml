@@ -1,0 +1,16 @@
+- menu_name: "ΒΙΒΛΙΟ"
+
+- name: "Αγορά"
+  url: "/buy/"
+
+- name: "Διορθώσεις"
+  url: "/contribute/"
+
+- name: "Σημειώσεις"
+  url: "/notes/"
+
+- name: "Βιβλιογραφία"
+  url: "/bibliography/"
+
+- name: "Ευχαριστίες"
+  url: "/credits/"

@@ -1,0 +1,23 @@
+- title: ΑΡΧΙΚΗ
+  url: "/"
+  side: left
+
+- title: "ΕΙΚΟΝΕΣ"
+  url: "/gallery/"
+  side: left
+
+- title: "ΠΕΡΙΠΤΩΣΕΙΣ"
+  url: "/case-study/"
+  side: left
+
+- title: "ΒΙΟΓΡΑΦΙΕΣ"
+  url: "/biography/"
+  side: left
+
+- title: "ΜΟΤΙΒΑ"
+  url: "/remix/"
+  side: left
+
+- title: "ΚΑΤΑΣΚΕΥΕΣ"
+  url: "/making/"
+  side: left

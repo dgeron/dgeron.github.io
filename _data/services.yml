@@ -1,0 +1,10 @@
+- menu_name: "ΔΙΔΑΚΤΙΚΗ"
+
+- name: "Διαφάνειες"
+  url: "/slides/"
+
+- name: "Screencasts"
+  url: "/screencasts/"
+
+- name: "Μέθοδος"
+  url: "/method/"
